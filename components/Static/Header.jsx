@@ -29,7 +29,7 @@ export default function Header() {
                     <Link href="/">
                         <a className="pr-1 text-white font-bold text-4xl">Swôth</a>
                     </Link>
-                    <a target="_blank" href="https://serity.me/discord" className="flex items-center justify-center cursor-pointer social w-10 h-10 rounded-lg">
+                    <a target="_blank" href="https://discord.com/users/1005112531431469136" className="flex items-center justify-center cursor-pointer social w-10 h-10 rounded-lg">
                         <i className="fab fa-discord" />
                     </a>
                     <a target="_blank" href="https://github.com/Burger1w" className="flex items-center justify-center cursor-pointer social w-10 h-10 rounded-lg">
