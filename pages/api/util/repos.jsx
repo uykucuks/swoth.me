@@ -4,7 +4,7 @@ export default async function Repos(req, res) {
     res.json(
         await (await fetch('https://api.github.com/users/swothh/repos', {
             headers: {
-                'Authorization': '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'
+                'Authorization': 'token {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}'
             } // get token: https://github.com/settings/tokens
         })).json()
     );
